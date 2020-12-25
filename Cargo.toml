@@ -1,9 +1,0 @@
-[package]
-name = "wayback"
-version = "0.1.0"
-authors = ["ciofeca <alfonso.martone@gmail.com>"]
-
-[dependencies]
-byteorder = "1.0"
-smithay-client-toolkit = { git = "https://github.com/Smithay/client-toolkit" }
-
